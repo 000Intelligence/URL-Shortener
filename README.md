@@ -1,2 +1,2 @@
 # 🔗 Likify 
-<p>[Shorten Your links on few seconds]</p>
+<p>Shorten Your links on few seconds</p>
