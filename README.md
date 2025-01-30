@@ -1,3 +1,3 @@
-# URL-Shortener
+# Likify [Shorten Your links on few seconds]
 
-<h1>a URL Shortener for practice</h1>
+<p>a URL Shortener for practice</p>
