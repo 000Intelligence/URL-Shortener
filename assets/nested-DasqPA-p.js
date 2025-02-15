@@ -1,0 +1,1 @@
+const t=document.getElementById("captcha-container"),c=document.getElementById("captcha-input"),a=document.getElementById("captcha-refresh");function e(){return Math.floor(Math.random()*9e4)+1e4}t.textContent=e();a.addEventListener("click",()=>{t.classList.add("glitch"),setTimeout(()=>{t.classList.remove("glitch")},300),t.textContent=e(),c.value=""});
